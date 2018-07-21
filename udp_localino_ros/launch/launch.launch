@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="udp_localino_ros" name="soc" type="soc.py" output="screen"/>
+</launch>
+
